@@ -5,3 +5,4 @@
 ' print(saudacao(nome))' 
 ' if not nome.strip():' 
 ' nome = "Usu rio"' 
+' return f"OLµ, {nome.upper()}! BEM-VINDO AO SOFTWARE."' 
