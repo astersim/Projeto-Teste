@@ -3,3 +3,5 @@
 'if __name__ == "__main__":' 
 ' nome = input("Digite seu nome: ")' 
 ' print(saudacao(nome))' 
+' if not nome.strip():' 
+' nome = "Usu rio"' 
